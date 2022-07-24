@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M-SHAHID-7
+- 👋 Hi, I’m @M-SHAHID
 - 👀 I’m interested in programming and Web Dev
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Web Dev
